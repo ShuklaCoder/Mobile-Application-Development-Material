@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="MyTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF5722</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+</resources>

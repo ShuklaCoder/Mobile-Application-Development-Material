@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical6</string>
+    <string-array name="items">
+        <item>Android</item>
+        <item>Blind</item>
+        <item>Cloud</item>
+    </string-array>
+</resources>
